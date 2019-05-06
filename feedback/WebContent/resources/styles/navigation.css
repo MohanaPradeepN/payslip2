@@ -1,0 +1,37 @@
+@media only screen and (max-width: 1350px)
+	{
+	#table1{
+	display:none;
+	}
+	table thead:nth-child(odd){
+		  background-color: #4C8BF5;
+		  color: #fff;
+			}
+	}
+	@media only screen and (min-width: 1349px)
+	{
+	#table2{
+	display:none;
+	}
+	
+	
+	}
+
+
+#header1 {
+  
+  background-color: #12a2ed;
+  
+}
+
+.footer{
+  position:fixed;
+  bottom:0;
+  left:0;
+  right:0;
+  padding:15px;
+  color:black;
+  background-color:#12a2ed;
+  font-size:17px;
+  text-align:center;
+  }
